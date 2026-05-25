@@ -1,4 +1,3 @@
-# AISI_Model_Transparency_Take_Home_Task_RS_Hires_Epistemic-Friction 
 # AISI Transparency Team Research Scientist Take-home Task - Epistemic Friction 
 
 Studies whether frontier models verbalize evaluation-awareness because they
